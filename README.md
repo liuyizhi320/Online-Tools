@@ -1,8 +1,8 @@
-# Public DNS Server List : 
+* Public DNS Server List : 
 https://public-dns.info/
-# sql format : 
+* sql format : 
 http://www.dpriver.com/pp/sqlformat.htm
-# random passwords : 
+* random passwords : 
 https://www.random.org/passwords/
 # text-compare : 
 https://text-compare.com/
