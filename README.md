@@ -1,5 +1,6 @@
-# Public DNS Server List : https://public-dns.info/
-# sql format : http://www.dpriver.com/pp/sqlformat.htm
+# Public DNS Server List : 
+https://public-dns.info/
+sql format : http://www.dpriver.com/pp/sqlformat.htm
 # random passwords : https://www.random.org/passwords/
 # text-compare : https://text-compare.com/
 # Calculate String Length : http://string-functions.com/length.aspx
